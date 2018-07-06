@@ -46,7 +46,7 @@
 </template>
 
 <script>
-    import DoggoTranslator from '../classes/DoggoTranslator/DoggoTranslator';
+    import DoggoTranslator from 'doggotranslator';
 
     let doggoTranslator = new DoggoTranslator('en');
 

@@ -1,14 +1,15 @@
 # [DoggoTranslate :dog:](https://gabbersaurus.github.io/DoggoTranslator/)
 
-> The English to Doggo translator
+> The universal doggo translator
 
-I made this a while ago for fun in Vue with ES6 JavaScript. If you don't know what this is all about you should read [this](http://knowyourmeme.com/memes/doggo) page.
+I made this a while ago for fun in Vue with ES6 JavaScript. Later, I made the translator standalone and this repository is for just the frontend. If you don't know what this is all about you should read [this](http://knowyourmeme.com/memes/doggo) page.
 The reason I didn't release it back then because it is still missing alot of translations and the code isn't that clean. If you have suggestions for translations, see the `How to contribute` section.
+
+The standalone translator can be found [here](https://github.com/Gabbersaurus/DoggoTranslatorCore/) and is available as a NPM package.
 
 ##Todo
 * Improve the frontend code and make actual components like they are meant to be made.
 * Add more translation possibilities and making the translating smarter.
-* Create a different repo (and maybe an NPM package) for just the DoggoTranslator class because it is not dependant of the Vue frontend.
 * Improve mobile page speed (maybe do something with the font?)
 
 ##How to contribute
@@ -16,6 +17,8 @@ If you want to add features, improve some code or add translations you are more 
 If you don't know what to do, follow [this](https://github.com/MarcDiethelm/contributing/blob/master/README.md) guide.
 
 If you have suggestions for features or translations and don't know how to program or git, you can create an issue on this Github repository.
+
+Make sure that Pull Requests and issues about the frontend end up in this repository, and Pull Requests and issues about the core translator (so translation suggestions go here too) end up in [that](https://github.com/Gabbersaurus/DoggoTranslatorCore/) repository.
 
 ## How to install
 

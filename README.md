@@ -1,4 +1,4 @@
-# DoggoTranslate :dog:
+# [DoggoTranslate :dog:](https://gabbersaurus.github.io/DoggoTranslator/)
 
 > The English to Doggo translator
 

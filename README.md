@@ -7,12 +7,12 @@ The reason I didn't release it back then because it is still missing alot of tra
 
 The standalone translator can be found [here](https://github.com/Gabbersaurus/DoggoTranslatorCore/) and is available as a NPM package.
 
-##Todo
+## Todo
 * Improve the frontend code and make actual components like they are meant to be made.
 * Add more translation possibilities and making the translating smarter.
 * Improve mobile page speed (maybe do something with the font?)
 
-##How to contribute
+## How to contribute
 If you want to add features, improve some code or add translations you are more than welcome to submit a Pull Request to this repo.
 If you don't know what to do, follow [this](https://github.com/MarcDiethelm/contributing/blob/master/README.md) guide.
 
@@ -28,5 +28,5 @@ When that has finished, you can start a local dev server by running `npm run dev
 If you want to build this project for production, you should copy `meta.example.json` to `meta.json` and change the fields to your liking.
 After that, you can run `npm run production`. This will create a version of this application that is suitable for the web and can be hosted any way you want.
 
-##License
+## License
 This application is released under the [MIT license](https://github.com/Gabbersaurus/DoggoTranslator/blob/master/LICENSE).

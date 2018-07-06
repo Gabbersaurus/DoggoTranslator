@@ -1,0 +1,9 @@
+{
+  "og:title": "The Doggo Translator",
+  "og:type": "website",
+  "og:image": "(url)/static/img/logo.png",
+  "og:description": "The Doggo Translator developed by Gabbersaurus",
+  "og:url": "(url)",
+  "favicon:type": "image/png",
+  "favicon:url": "/static/img/favicon.png"
+}

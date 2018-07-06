@@ -9,6 +9,7 @@ The reason I didn't release it back then because it is still missing alot of tra
 * Improve the frontend code and make actual components like they are meant to be made.
 * Add more translation possibilities and making the translating smarter.
 * Create a different repo (and maybe an NPM package) for just the DoggoTranslator class because it is not dependant of the Vue frontend.
+* Improve mobile page speed (maybe do something with the font?)
 
 ##How to contribute
 If you want to add features, improve some code or add translations you are more than welcome to submit a Pull Request to this repo.

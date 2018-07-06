@@ -1,4 +1,4 @@
-# [DoggoTranslate :dog:](https://gabbersaurus.github.io/DoggoTranslator/)
+# [DoggoTranslator (frontend) :dog:](https://gabbersaurus.github.io/DoggoTranslator/)
 
 > The universal doggo translator
 

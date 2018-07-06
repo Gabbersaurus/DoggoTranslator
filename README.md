@@ -23,3 +23,6 @@ When that has finished, you can start a local dev server by running `npm run dev
 
 If you want to build this project for production, you should copy `meta.example.json` to `meta.json` and change the fields to your liking.
 After that, you can run `npm run production`. This will create a version of this application that is suitable for the web and can be hosted any way you want.
+
+##License
+This application is released under the [MIT license](https://github.com/Gabbersaurus/DoggoTranslator/blob/master/LICENSE).
